@@ -8,7 +8,6 @@
 <a href="https://github.com/InveII"> <img align="center" alt="Invells Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>  
 
 <br/>
-<br/>
   
 ![Invell Stats](https://github-readme-stats.vercel.app/api?username=InveII&show_icons=true&theme=dark)
   
