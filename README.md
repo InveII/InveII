@@ -8,9 +8,6 @@
   <img align="left" alt="My Twieer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://github.com/InveII">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
   
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
 
@@ -26,3 +23,8 @@
 </table>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+  
+<a href="https://github.com/Booget?tab=followers"><img src="https://img.shields.io/github/followers/Booget?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/InveII"> <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>
+
