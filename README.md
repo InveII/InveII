@@ -22,7 +22,8 @@
 </table>
   
  
-![Discord Banner 4](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner4)
+[Discord Banner 4](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner4)
+<img src="https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner4" alt="Discord Banner 4"/>
   
   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
