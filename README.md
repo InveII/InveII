@@ -16,5 +16,3 @@
 </table>
 
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Sowd0404"/> 
-
-[Sowd Hub]: https://discord.gg/UsbwKX52ee
