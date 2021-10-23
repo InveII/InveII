@@ -21,9 +21,11 @@
   </tr>
 </table>  
   
+  
+![Discord Banner 2](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner2)
+  
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=InveII">
 </a>
 <a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/InveII?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
+<img src="https://discordapp.com/api/guilds/744202834009915403/widget.png?style=shield" alt="Discord Shield"/>
