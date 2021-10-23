@@ -2,10 +2,6 @@
 
 ### Hi, my name is Invell
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-### Hi, my name is Invell
-
 <table>
   <tr>
         <td align="center" style="padding=0;width=50%;">
