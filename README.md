@@ -26,4 +26,4 @@
 </a>
 <a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/InveII?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Discord Shield](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=shield)
+<iframe src="https://discord.com/widget?id=744202834009915403&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
