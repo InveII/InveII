@@ -19,13 +19,11 @@
       <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=InveII&show_icons=true&title_color=5865f2&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=5865f2&hide_title=true&count_private=true"/>
         </td>
   </tr>
-</table>
-  
- 
-<img src="https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner4" alt="Discord Banner 4"/>
-  
+</table>  
   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=InveII">
 </a>
 <a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/InveII?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![Discord Shield](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=shield)
