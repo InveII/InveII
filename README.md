@@ -25,5 +25,6 @@
     <img src="https://komarev.com/ghpvc/?username=InveII">
 </a>
 <a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/InveII?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1" alt="Discord Banner 1"/>
 
 
