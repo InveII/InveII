@@ -4,12 +4,12 @@
 <h2 align="center"> I'm a 22 year old, Full-Stack developer & Software Engineer<h2>
 
   
-<a href="https://twitter.com/_Invell">
-  <img align="left" alt="My Twieer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<a href="https://twitter.com/_Invell"> <img align="left" alt="My Twieer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://github.com/InveII"> <img align="left" alt="Invells Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>
 
   
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
+  
 
 <br/>
 <br/>
@@ -26,5 +26,4 @@
 
   
 <a href="https://github.com/Booget?tab=followers"><img src="https://img.shields.io/github/followers/Booget?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/InveII"> <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>
-
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
