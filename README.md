@@ -8,8 +8,7 @@
           <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=InveII&show_icons=true&title_color=5865f2&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=5865f2&hide_title=true&count_private=true"/>
         </td>
         <td align="center" style="padding=0;width=50%;">
-         
-        </td>
+
   </tr>
 </table>
 
