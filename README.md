@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
 
 <h3 align="center"> Hi, my name is Invell <h3>
 
@@ -17,9 +20,6 @@
         </td>
   </tr>
 </table>
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=InveII">
