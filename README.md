@@ -1,5 +1,5 @@
 
-### Hi, my name is Invell 
+<h3 align="center"> Hi, my name is Invell <h3>
 
 <h2 align="center"> I'm a 22 year old, Full-Stack developer & Software Engineer<h2>
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
