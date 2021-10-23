@@ -22,7 +22,7 @@
 </table>  
   
   
-![Discord Banner 2](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/744202834009915403/widget.png?style=banner2)(discord.gg/BWV8CDy)
   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=InveII">
