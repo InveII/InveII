@@ -2,8 +2,7 @@
 <h3 align="center"> Hi, my name is Invell <h3>
 
 <h2 align="center"> I'm a 22 year old, Full-Stack developer & Software Engineer<h2>
-  
-<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
+
   
 <a href="https://twitter.com/_Invell">
   <img align="left" alt="My Twieer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,6 +11,8 @@
 <a href="https://github.com/InveII">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+  
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=InveII"/> 
 
 <br/>
 <br/>
