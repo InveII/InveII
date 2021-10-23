@@ -24,4 +24,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=InveII">
 </a>
-<a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/Booget?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/InveII?tab=followers"><img src="https://img.shields.io/github/followers/InveII?label=Followers&style=social" alt="GitHub Badge"></a>
